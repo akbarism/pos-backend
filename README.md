@@ -2,7 +2,7 @@
 
 
 
-![abcd](https://img.shields.io/badge/Code%20Style-Standard-green) [![Release Version](https://img.shields.io/badge/release-v.1.0-blue)](https://github.com/shoelfikar/Backend-book-library-expressjs/releases/tag/1.0) [![Node JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://nodejs.org/en/)
+![abcd](https://img.shields.io/badge/Code%20Style-Standard-green) [![Release Version](https://img.shields.io/badge/release-v.1.0-blue)](https://https://github.com/akbarism/pos-backend/releases/tag/1.0) [![Node JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://nodejs.org/en/)
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/shoelfikar/Backend-book-library-expressjs.git
+$ git clone https://github.com/https://github.com/akbarism/pos-backend.git
 $ cd Backend-book-library-expressjs
 $ npm install
 ```
@@ -110,15 +110,12 @@ Fork the Project
 
 ## Related Project
 
-* [`Frontend-mylibrary-online-vuejs`](https://github.com/shoelfikar/Frontend-mylibrary-online-vuejs)
-* [`Backend-book-library-expressjs`](https://github.com/shoelfikar/Backend-book-library-expressjs)
+* [`Frontend-mylibrary-online-vuejs`](https://github.com/akbarism/vue-library)
 
 ## Contact
 
- Email : akbarismaiel@gmail.com
- linkedin: https://www.linkedin.com/in/akbarism/
-
-Project Link: [Backend-book-library-expressjs](https://github.com/shoelfikar/Backend-book-library-expressjs)
+ Email : akbarismaiel@gmail.com <br>
+ linkedin: [akbar ismail](https://www.linkedin.com/in/akbarism/)
 
 
 ---
