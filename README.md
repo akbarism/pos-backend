@@ -34,7 +34,7 @@
 ### Clone
 ```
 $ git clone https://github.com/https://github.com/akbarism/pos-backend.git
-$ cd Backend-book-library-expressjs
+$ Open the folder and type npm install for install dependencies
 $ npm install
 ```
 
@@ -119,4 +119,4 @@ Fork the Project
 
 
 ---
-Copyright © 2020 [Akbar Ismail](https://github.com/akbarism/)
+Copyright © 2020 [akbar ismail](https://github.com/akbarism/)
