@@ -69,7 +69,7 @@ PORT_REDIS=YOUR_PORT_REDIS / default => 6379
 $ npm start
 ```
 ## Link Collection Postman
-[Postman](https://www.getpostman.com/collections/3c148320790dbe830d78)
+[Postman](https://www.postman.com/collections/4f76ec832317dc9fb65f)
 
 ## Structur Folder
 ```
