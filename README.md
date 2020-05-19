@@ -33,9 +33,8 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/https://github.com/akbarism/pos-backend.git
-$ Open the folder and type npm install for install dependencies
-$ npm install
+  git clone https://github.com/https://github.com/akbarism/pos-backend.git
+  Open the folder and type npm install for install dependencies
 ```
 
 ## Create Environment Variable
