@@ -1,6 +1,6 @@
 const cashierModel = require('../models/cashier');
 const miscHelper = require('../helpers/helper');
-const {genSaltSync,compareSync,hashSync} = require('bcrypt');
+const {genSaltSync,compareSync,hashSync} = require('bcryptjs');
 require('dotenv').config();
 
 module.exports = {

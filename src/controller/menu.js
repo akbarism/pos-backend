@@ -15,9 +15,6 @@ module.exports = {
             const jumlah = result.length;
             miscHelper.response(res, result, 200, 'All Menu', jumlah)
         })
-        // .catch((err)=>{
-        //     miscHelper.response(res, err, 500, 'Get Menu Failed')
-        // })
     },
     insertMenu: (req, res)=>{
         const {
@@ -37,12 +34,9 @@ module.exports = {
             console.log(data);
             
         })
-        // .catch((err)=>{
-        //     miscHelper.response(res, err, 404, 'Insert Menu Failed')
-        // })
     },
     menuDetail:(req, res)=>{
-        const idMenu = req.params.id_menu
+        const idMenu = req.params.id_menu   
         menuModel.menuDetail(idMenu)
         .then((result)=>{
             if(result.length == 0){

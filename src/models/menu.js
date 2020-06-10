@@ -12,7 +12,7 @@ module.exports = {
                     }
                 })
             }else if (page){
-                connection.query('SELECT * FROM menu LIMIT ' + (page * 9 - 9) + ', 9', (err, result)=>{
+                connection.query('SELECT * FROM menu LIMIT ' + (page * 6 - 6) + ', 6', (err, result)=>{
                     if(!err){
                         resolve(result)
                     }else{
